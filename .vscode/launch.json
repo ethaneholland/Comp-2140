@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch A5HollandEthan",
+            "request": "launch",
+            "mainClass": "A5HollandEthan",
+            "projectName": "comp-2140_bd0a361b"
+        },
+        {
+            "type": "java",
+            "name": "Launch A05",
+            "request": "launch",
+            "mainClass": "A05",
+            "projectName": "comp-2140_bd0a361b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab5",
+            "request": "launch",
+            "mainClass": "Lab5",
+            "projectName": "comp-2140_bd0a361b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab5HollandEthan",
+            "request": "launch",
+            "mainClass": "Lab5HollandEthan",
+            "projectName": "comp-2140_bd0a361b"
+        },
+        {
+            "type": "java",
             "name": "Launch A1HollandEthan",
             "request": "launch",
             "mainClass": "A1HollandEthan",

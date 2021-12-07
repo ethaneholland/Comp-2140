@@ -18,7 +18,7 @@ import java.lang.Math;
 public class A1HollandEthan {
 
     // Global Variables.
-    private static final int ARRAY_SIZE = 1000;
+    private static final int ARRAY_SIZE = 10000;
     private static final int MAX_VALUE = 5000;
     // Used to indicate whether the recursive or iterative algorithm should be used.
     private static final boolean RECURSIVE = false;
@@ -205,4 +205,5 @@ public class A1HollandEthan {
         if (pos > 0)
             recursiveInsertionSort(array, pos - 1);
     } // end helper recursiveInsertionSort
+    
 } // end A1HollandEthan
